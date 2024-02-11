@@ -1,0 +1,1 @@
+export const LISTCOUNTRY=[{id:1,name:"Japon"},{id:1,name:"Guinée"},{id:2,name:"Maroc"} ,{id:3,name:"Egypt"},{id:4,name:"Canada"}];

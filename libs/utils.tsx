@@ -1,0 +1,2 @@
+export const avatarFn = (val:string) =>val ?`${process.env.NEXT_PUBLIC_URL_API_IMAGE}${val}`:'../images/3.jpeg'
+export const capitalize=(sentence:string)=> sentence?sentence[0].toUpperCase() + sentence.slice(1).toLowerCase():'';
