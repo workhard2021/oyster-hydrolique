@@ -15,5 +15,4 @@ const nextConfig = {
     API_KEY_SENDGRID:"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"
   }
 }
-
 module.exports = nextConfig
